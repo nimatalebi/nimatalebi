@@ -15,8 +15,8 @@
 
 <p align="center">
 <a href="https://github.com/nimatalebi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kiahamedi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kiahamedi&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nimatalebi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nimatalebi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -24,7 +24,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/nima-talebi/"><img src="https://img.shields.io/badge/-kiahamedi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nima-talebi/"><img src="https://img.shields.io/badge/-nimatalebi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 </p>
 <!--
