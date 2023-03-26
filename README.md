@@ -12,7 +12,6 @@
 
 
 ## &#x1f4c8; GitHub Stats
-
 <p align="center">
 <a href="https://github.com/nimatalebi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nimatalebi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
